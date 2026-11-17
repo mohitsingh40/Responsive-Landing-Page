@@ -68,7 +68,3 @@ You can also open `index.html` directly in a browser, but using Apache through X
 - Keep `index.html`, `styles.css`, and `app.js` together in the project root so the stylesheet and script paths continue to work.
 - The page imports Google Fonts from Google Fonts, so an internet connection is needed to load those fonts. System fallback fonts will be used if they are unavailable.
 - The contact button uses the `mailto:` link `hello@northstar.studio`. Update this address in `index.html` if you want to use a different email address.
-
-## License
-
-No license has been specified for this project. Add a license file if you plan to distribute or reuse it publicly.
